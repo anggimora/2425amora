@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Sociedad Gastronómica de Texas en Madrid</title>
+<link>https://anggimora.github.io/2425amora/</link>
+<description>Nuevas noticias y actualizaciones de nuestra Sociedad</description>
+<language>es-es</language>
+<item>
+<title>Instalaciones</title>
+<link>https://anggimora.github.io/2425amora/Instalaciones.html</link>
+<description>Novedades en las instalaciones de la Sociedad, entérate de todas las mejoras, para comodidad y disfrute de los Socios</description>
+<author>sgastrotexas@gmail.com (Sociedad Gastronómica de Texas en Madrid)</author>
+<pubDate>Sun, 09 Feb 2025 10:00:00 GMT</pubDate>
+<guid>https://anggimora.github.io/2425amora/Instalaciones.html</guid>
+</item>
+
+<item>
+<title>Reuniones</title>
+<link>https://anggimora.github.io/2425amora/Nuestras_reuniones.html</link>
+<description>Información de las reuniones de la Sociedad, con novedades de interés. No te las pierdas!</description>
+<author>sgastrotexas@gmail.com (Sociedad Gastronómica de Texas en Madrid)</author>
+<pubDate>Sun, 09 Feb 2025 11:00:00 GMT</pubDate>
+<guid>https://anggimora.github.io/2425amora/Nuestras_reuniones.html</guid>
+</item>
+
+</channel>
+</rss>
+
